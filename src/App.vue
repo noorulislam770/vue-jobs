@@ -50,7 +50,7 @@
         }
     }) 
 </script>
-
+ 
 
 <template>
   <h1>Vue Jobs {{ name }}</h1>
